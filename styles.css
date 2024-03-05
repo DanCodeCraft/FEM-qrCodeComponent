@@ -77,3 +77,9 @@ body {
   text-align: center;
   margin-bottom: 3.2rem;
 }
+
+@media (max-width: 375px) {
+  body {
+    max-width: 375px;
+  }
+}
