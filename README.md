@@ -24,7 +24,7 @@ I decided to keep it simple and use purely HTML and CSS, with one media query to
 
 ### Screenshot
 
-![](./qrCodeFEMScreenshot.png)
+![](./QRCodeFEMScreenshot.png)
 
 ### Links
 
