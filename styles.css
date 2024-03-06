@@ -43,13 +43,12 @@ body {
   height: 100vh;
 
   font-family: "Outfit", sans-serif;
-  max-width: 1440px;
   line-height: 1.2;
 }
 
 .box-container {
   background-color: hsl(0, 0%, 100%);
-  height: auto;
+  height: 545px;
   width: 350px;
   padding: 0 1.2rem;
   border-radius: 16px;
